@@ -1,0 +1,9 @@
+{
+    "name": "cdv-podyplomowe",
+    "short_name": "cdv-pod",
+    "lang": "pl-PL",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#090166",
+    "theme_color": "white"
+}
